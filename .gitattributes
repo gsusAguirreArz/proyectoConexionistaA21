@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 *.csv filter=lfs diff=lfs merge=lfs -text
-=======
->>>>>>> 0f5049d57f56f65a80c2e9592984b6cb9746cc3c
 *.npz filter=lfs diff=lfs merge=lfs -text
