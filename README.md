@@ -10,7 +10,7 @@ Para el proyecto final decidimos analizar el siguiente articulo [ScienceDirect](
 
 **Integrantes:**
 - José de Jesús Daniel Aguirre Arzate **A200350** [GitHub](https://github.com/gsusAguirreArz)
-- José Ángel Avelar Barragan **A20** [GitHub](https://github.com/enoc494)
+- José Ángel Avelar Barragan **A200361** [GitHub](https://github.com/enoc494)
 
 ### **Implementaciones**
 
