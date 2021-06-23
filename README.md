@@ -14,9 +14,11 @@ Para el proyecto final decidimos analizar el siguiente articulo [ScienceDirect](
 
 ### **Implementaciones**
 
-* [Tensorflow]()
-* [Pytorch]()
+* [Tensorflow](https://github.com/gsusAguirreArz/proyectoConexionistaA21/blob/master/main_tf2.ipynb)
+* [Pytorch](https://github.com/gsusAguirreArz/proyectoConexionistaA21/blob/master/main_torch.ipynb)
 
 #### **Notas Importantes**
 
-- La paqueteria **AstroTools** solo se puede instalar en linux/MacOS
+- La paqueteria **AstroTools** solo se puede instalar en linux/MacOS/GoogleColab
+- Drive donde se encuentran el dataset [Dataset](https://drive.google.com/drive/folders/1Nmm7Sw0hbQABNw3lDMksSjuox-nW9bs-?usp=sharing)
+- Documentacion de Torch_Geometric [geometric](https://github.com/rusty1s/pytorch_geometric)
